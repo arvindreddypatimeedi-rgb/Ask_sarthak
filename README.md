@@ -1,4 +1,4 @@
-# Ask Sarthak – AI Finance Controller
+AI Finance Controller
 
 An AI-powered finance analytics solution built using Databricks.
 
